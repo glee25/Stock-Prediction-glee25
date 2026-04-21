@@ -51,10 +51,6 @@ pip install -r
 
 * **Gerald Lee** - *Initial work* - [Glee25](https://github.com/glee25)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
