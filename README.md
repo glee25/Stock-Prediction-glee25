@@ -14,39 +14,6 @@ This project proposes a hybrid ARIMA-LSTM pipeline:
 
 Combine both predictions for a final, more accurate forecast.
 
-## Prerequisites
-
-### Dataset
-
-You can use any stock data (e.g., AAPL, MSFT, TSLA) obtained from:
-  - Yahoo Finance
-  - Kaggle
-
-### Installing
-
-1. Cloning Git Repository
-```
-git clone https://github.com/glee25/stock-prediction-glee25.git
-cd stock-prediction-glee25
-```
-
-2. Create a Virtual Environment
-```
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-```
-
-3. Install Dependencies
-```
-pip install -r  
-```
-
-## Running the tests
-
-
-### Data
-
-
 ## Authors
 
 * **Gerald Lee** - *Initial work* - [Glee25](https://github.com/glee25)
